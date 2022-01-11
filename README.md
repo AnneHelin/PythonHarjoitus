@@ -1,0 +1,2 @@
+# PythonHarjoitus
+TiVI20OAKevät22 Ensimmäinen ohjelmointiharjoitus
